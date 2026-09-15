@@ -8,6 +8,8 @@ Demo estática creada a partir del sitio público y del alcance técnico cotizad
 - Flujo simulado de agenda, anticipo y confirmación en Atlas.
 - Asistente virtual Pixie en modo demostración.
 - Integración del equipo clínico, contacto, horarios y ubicación.
+- Sistema de movimiento premium: entrada de marca, revelados por scroll, parallax, microinteracciones, profundidad 3D y navegación reactiva.
+- Respeto automático a la preferencia de accesibilidad `prefers-reduced-motion`.
 
 ## Ejecutar localmente
 
